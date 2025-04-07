@@ -7,6 +7,8 @@ BrainTrainr is your AI-powered learning assistant, designed to break down comple
 
 Check out our demo build: [Link](https://meta-llama-hackathon.vercel.app)
 
+https://github.com/user-attachments/assets/eeb8097d-a294-467b-9b44-6cc8333b8c8a
+
 ---
 
 ## 🌟 Features
