@@ -5,7 +5,7 @@
 🚀 **Simplify Learning, Amplify Understanding**  
 BrainTrainr is your AI-powered learning assistant, designed to break down complex concepts into digestible visualizations and step-by-step guidance. It transforms the way you learn, enabling you to understand and apply knowledge more effectively. 
 
-Check out our demo build: [braintrainr.vercel.app](https://braintrainr.vercel.app/)
+Check out our demo build: [Link](https://meta-llama-hackathon.vercel.app/chat)
 
 ---
 
